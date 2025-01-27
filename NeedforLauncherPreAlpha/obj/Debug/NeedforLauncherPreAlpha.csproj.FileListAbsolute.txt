@@ -1,0 +1,10 @@
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\bin\Debug\NeedforLauncherPreAlpha.exe.config
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\bin\Debug\NeedforLauncherPreAlpha.exe
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\bin\Debug\NeedforLauncherPreAlpha.pdb
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\obj\Debug\NeedforLauncherPreAlpha.csproj.AssemblyReference.cache
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\obj\Debug\NeedforLauncherPreAlpha.Properties.Resources.resources
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\obj\Debug\NeedforLauncherPreAlpha.csproj.GenerateResource.cache
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\obj\Debug\NeedforLauncherPreAlpha.csproj.CoreCompileInputs.cache
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\obj\Debug\NeedforLauncherPreAlpha.exe
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\obj\Debug\NeedforLauncherPreAlpha.pdb
+C:\Users\EKREM\source\repos\NeedforLauncherPreAlpha\NeedforLauncherPreAlpha\obj\Debug\NeedforLauncherPreAlpha.Form1.resources
